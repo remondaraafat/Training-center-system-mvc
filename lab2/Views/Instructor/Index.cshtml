@@ -1,0 +1,46 @@
+﻿@{
+    int num=0; 
+}
+
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Salary</th>
+            <th scope="col">Address</th>
+            <th scope="col">Image</th>
+            <th scope="col">Details</th>
+            <th scope="col">Update</th>
+            <th scope="col">Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Instructor instructor in Model)
+        {
+        
+        <tr>
+            
+            <th scope="row">@instructor.Name</th>
+            <td>@instructor.Salary</td>
+                <td>@instructor.Address</td>
+                <td><img src="/Images/@instructor.Image" /></td>
+                <td><a href="/Instructor/Details/@instructor.Id">Details</a></td>
+                <td><a href="/Instructor/Update/@instructor.Id">Update</a></td>
+                <td><a href="/Instructor/Delete/@instructor.Id">Delete</a></td>
+        </tr>
+        }
+    </tbody>
+</table>
+<nav aria-label="Page navigation example">
+    <ul class="pagination justify-content-center">
+        <li class="page-item disabled">
+            <a class="page-link" href="#" tabindex="-1"></a>
+        </li>
+        <li class="page-item"><a class="page-link" href="#">1</a></li>
+        <li class="page-item"><a class="page-link" href="#">2</a></li>
+        <li class="page-item"><a class="page-link" href="#">3</a></li>
+        <li class="page-item">
+            <a class="page-link" href="#"></a>
+        </li>
+    </ul>
+</nav>

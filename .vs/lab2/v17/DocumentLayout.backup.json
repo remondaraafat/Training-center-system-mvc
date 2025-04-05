@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|r:\\iti_intake_45\\22_mvc\\labs\\lab2\\lab2\\views\\instructor\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|solutionrelative:lab2\\views\\instructor\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|r:\\iti_intake_45\\22_mvc\\labs\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|r:\\iti_intake_45\\22_mvc\\labs\\lab2\\lab2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|solutionrelative:lab2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|r:\\iti_intake_45\\22_mvc\\labs\\lab2\\lab2\\models\\uniqueattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|solutionrelative:lab2\\models\\uniqueattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|r:\\iti_intake_45\\22_mvc\\labs\\lab2\\lab2\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|solutionrelative:lab2\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|r:\\iti_intake_45\\22_mvc\\labs\\lab2\\lab2\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|solutionrelative:lab2\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|r:\\iti_intake_45\\22_mvc\\labs\\lab2\\lab2\\repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|solutionrelative:lab2\\repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|r:\\iti_intake_45\\22_mvc\\labs\\lab2\\lab2\\repository\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|solutionrelative:lab2\\repository\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|r:\\iti_intake_45\\22_mvc\\labs\\lab2\\lab2\\repository\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|solutionrelative:lab2\\repository\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|r:\\iti_intake_45\\22_mvc\\labs\\lab2\\lab2\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|solutionrelative:lab2\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|r:\\iti_intake_45\\22_mvc\\labs\\lab2\\lab2\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|solutionrelative:lab2\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|r:\\iti_intake_45\\22_mvc\\labs\\lab2\\lab2\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|solutionrelative:lab2\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|r:\\iti_intake_45\\22_mvc\\labs\\lab2\\lab2\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|solutionrelative:lab2\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|r:\\iti_intake_45\\22_mvc\\labs\\lab2\\lab2\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|solutionrelative:lab2\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|r:\\iti_intake_45\\22_mvc\\labs\\lab2\\lab2\\viewmodel\\traineeresultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|solutionrelative:lab2\\viewmodel\\traineeresultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|r:\\iti_intake_45\\22_mvc\\labs\\lab2\\lab2\\controllers\\traineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|solutionrelative:lab2\\controllers\\traineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|r:\\iti_intake_45\\22_mvc\\labs\\lab2\\lab2\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77359B3B-2000-4ED9-898E-F8FD9F645F5D}|lab2\\lab2.csproj|solutionrelative:lab2\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 78,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Program.cs",
+              "RelativeDocumentMoniker": "lab2\\Program.cs",
+              "ToolTip": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Program.cs",
+              "RelativeToolTip": "lab2\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:01:10.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\appsettings.json",
+              "RelativeDocumentMoniker": "lab2\\appsettings.json",
+              "ToolTip": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\appsettings.json",
+              "RelativeToolTip": "lab2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T12:04:14.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Repository\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "lab2\\Repository\\CourseRepository.cs",
+              "ToolTip": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Repository\\CourseRepository.cs",
+              "RelativeToolTip": "lab2\\Repository\\CourseRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:05:01.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "lab2\\Controllers\\CourseController.cs",
+              "ToolTip": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "lab2\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBIAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:05:18.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Views\\Instructor\\Add.cshtml",
+              "RelativeDocumentMoniker": "lab2\\Views\\Instructor\\Add.cshtml",
+              "ToolTip": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Views\\Instructor\\Add.cshtml",
+              "RelativeToolTip": "lab2\\Views\\Instructor\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T12:02:44.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UniqueAttribute.cs",
+              "DocumentMoniker": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Models\\UniqueAttribute.cs",
+              "RelativeDocumentMoniker": "lab2\\Models\\UniqueAttribute.cs",
+              "ToolTip": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Models\\UniqueAttribute.cs",
+              "RelativeToolTip": "lab2\\Models\\UniqueAttribute.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:06:57.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Repository\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "lab2\\Repository\\DepartmentRepository.cs",
+              "ToolTip": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Repository\\DepartmentRepository.cs",
+              "RelativeToolTip": "lab2\\Repository\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:04:56.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Repository\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "lab2\\Repository\\ICourseRepository.cs",
+              "ToolTip": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Repository\\ICourseRepository.cs",
+              "RelativeToolTip": "lab2\\Repository\\ICourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:04:52.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Repository\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "lab2\\Repository\\IDepartmentRepository.cs",
+              "ToolTip": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Repository\\IDepartmentRepository.cs",
+              "RelativeToolTip": "lab2\\Repository\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:04:50.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "lab2\\Repository\\IRepository.cs",
+              "ToolTip": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Repository\\IRepository.cs",
+              "RelativeToolTip": "lab2\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:04:47.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Context.cs",
+              "DocumentMoniker": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Models\\Context.cs",
+              "RelativeDocumentMoniker": "lab2\\Models\\Context.cs",
+              "ToolTip": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Models\\Context.cs",
+              "RelativeToolTip": "lab2\\Models\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:04:29.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InstructorController.cs",
+              "DocumentMoniker": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Controllers\\InstructorController.cs",
+              "RelativeDocumentMoniker": "lab2\\Controllers\\InstructorController.cs",
+              "ToolTip": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Controllers\\InstructorController.cs",
+              "RelativeToolTip": "lab2\\Controllers\\InstructorController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:59:47.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_MainLayout.cshtml",
+              "DocumentMoniker": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeDocumentMoniker": "lab2\\Views\\Shared\\_MainLayout.cshtml",
+              "ToolTip": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeToolTip": "lab2\\Views\\Shared\\_MainLayout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T11:59:04.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_navBar.cshtml",
+              "DocumentMoniker": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Views\\Shared\\_navBar.cshtml",
+              "RelativeDocumentMoniker": "lab2\\Views\\Shared\\_navBar.cshtml",
+              "ToolTip": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Views\\Shared\\_navBar.cshtml",
+              "RelativeToolTip": "lab2\\Views\\Shared\\_navBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T11:59:02.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TraineeResultViewModel.cs",
+              "DocumentMoniker": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\ViewModel\\TraineeResultViewModel.cs",
+              "RelativeDocumentMoniker": "lab2\\ViewModel\\TraineeResultViewModel.cs",
+              "ToolTip": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\ViewModel\\TraineeResultViewModel.cs",
+              "RelativeToolTip": "lab2\\ViewModel\\TraineeResultViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:55:34.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TraineeController.cs",
+              "DocumentMoniker": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Controllers\\TraineeController.cs",
+              "RelativeDocumentMoniker": "lab2\\Controllers\\TraineeController.cs",
+              "ToolTip": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Controllers\\TraineeController.cs",
+              "RelativeToolTip": "lab2\\Controllers\\TraineeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:55:17.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "lab2\\Controllers\\TestController.cs",
+              "ToolTip": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\Controllers\\TestController.cs",
+              "RelativeToolTip": "lab2\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:55:02.785Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

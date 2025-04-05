@@ -1,0 +1,437 @@
+{
+  "Files": [
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\lab2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\lab2.v7hq2q816q.bundle.scp.css"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\Images\\cart.svg",
+      "PackagePath": "staticwebassets\\Images\\cart.svg"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\Images\\envelope-outline.svg",
+      "PackagePath": "staticwebassets\\Images\\envelope-outline.svg"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\Images\\form-wizard-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\form-wizard-1.jpg"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\Images\\form-wizard-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\form-wizard-2.jpg"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\Images\\form-wizard-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\form-wizard-3.jpg"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\Images\\jane_smith.jpg",
+      "PackagePath": "staticwebassets\\Images\\jane_smith.jpg"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\Images\\john_doe.jpg",
+      "PackagePath": "staticwebassets\\Images\\john_doe.jpg"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\Images\\sofa.png",
+      "PackagePath": "staticwebassets\\Images\\sofa.png"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\Images\\textarea-bg.png",
+      "PackagePath": "staticwebassets\\Images\\textarea-bg.png"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\Images\\user.svg",
+      "PackagePath": "staticwebassets\\Images\\user.svg"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\css\\Add.css",
+      "PackagePath": "staticwebassets\\css\\Add.css"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\css\\Add.css.map",
+      "PackagePath": "staticwebassets\\css\\Add.css.map"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\css\\MainLayout.css",
+      "PackagePath": "staticwebassets\\css\\MainLayout.css"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\css\\MainLayout.scss",
+      "PackagePath": "staticwebassets\\css\\MainLayout.scss"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\css\\add.scss",
+      "PackagePath": "staticwebassets\\css\\add.scss"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\css\\tiny-slider.css",
+      "PackagePath": "staticwebassets\\css\\tiny-slider.css"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\fonts\\material-design-iconic-font\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\fonts\\material-design-iconic-font\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\fonts\\material-design-iconic-font\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\fonts\\material-design-iconic-font\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\fonts\\muli\\Muli-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\muli\\Muli-Black.ttf"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\fonts\\muli\\Muli-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\muli\\Muli-BlackItalic.ttf"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\fonts\\muli\\Muli-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\muli\\Muli-Bold.ttf"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\fonts\\muli\\Muli-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\muli\\Muli-BoldItalic.ttf"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\fonts\\muli\\Muli-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\muli\\Muli-ExtraBold.ttf"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\fonts\\muli\\Muli-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\muli\\Muli-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\fonts\\muli\\Muli-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\muli\\Muli-ExtraLight.ttf"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\fonts\\muli\\Muli-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\muli\\Muli-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\fonts\\muli\\Muli-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\muli\\Muli-Italic.ttf"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\fonts\\muli\\Muli-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\muli\\Muli-Light.ttf"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\fonts\\muli\\Muli-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\muli\\Muli-LightItalic.ttf"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\fonts\\muli\\Muli-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\muli\\Muli-Regular.ttf"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\fonts\\muli\\Muli-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\muli\\Muli-SemiBold.ttf"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\fonts\\muli\\Muli-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\muli\\Muli-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\fonts\\muli\\OFL.txt",
+      "PackagePath": "staticwebassets\\fonts\\muli\\OFL.txt"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\js\\MainLayout.js",
+      "PackagePath": "staticwebassets\\js\\MainLayout.js"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\js\\tiny-slider.js",
+      "PackagePath": "staticwebassets\\js\\tiny-slider.js"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "R:\\iti_intake_45\\22_MVC\\labs\\lab2\\lab2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.lab2.props",
+      "PackagePath": "build\\lab2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.lab2.props",
+      "PackagePath": "buildMultiTargeting\\lab2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.lab2.props",
+      "PackagePath": "buildTransitive\\lab2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.lab2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.lab2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

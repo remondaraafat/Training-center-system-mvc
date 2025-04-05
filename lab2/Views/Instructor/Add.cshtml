@@ -1,0 +1,128 @@
+﻿@model InstructorWithDeptCrsListVM
+<div class="wrapper">
+	<form action="" id="wizard" method="post">
+		<!-- SECTION 1 -->
+		<h2></h2>
+		<section>
+			<div class="inner">
+				<div class="image-holder">
+					<img src="/Images/form-wizard-1.jpg" alt="">
+				</div>
+				<div class="form-content">
+					<div class="form-header">
+						<h3>Add new Instructor</h3>
+					</div>
+					<p>Please fill with instructor details</p>
+					<div class="form-row">
+						<div class="form-holder">
+							<input type="text" placeholder="Your Name" class="form-control" name="Name" value="@Model?.Name">
+						</div>
+						<div class="form-holder">
+							@if (@Model?.Salary == 0)
+							{
+
+								<input type="text" placeholder="Your Salary" class="form-control" name="Salary">
+
+							}
+							else
+							{
+								<input type="text" class="form-control" name="Salary" value="@Model?.Salary">
+							}
+						</div>
+					</div>
+					<div class="form-row">
+						<div class="form-holder">
+							<input type="text" placeholder="Your Address" class="form-control" name="Address" value="@Model?.Address">
+						</div>
+						<div class="form-holder">
+							<input type="file" placeholder="your Image" class="form-control" name="Image" value="@Model?.Image">
+						</div>
+					</div>
+					<div class="form-row">
+						<div class="form-holder">
+							<select class="form-select" aria-label="Default select example" id="DeptId" name="DeptId" onchange="GetCourses()">
+								<option selected>Departement</option>
+								@foreach (Department d in Model?.departments)
+								{
+									<option value="@d.Id">@d.Name</option>
+								}
+
+							</select>
+						</div>
+						<div class="form-holder" id="crsList">
+							<select class="form-select" aria-label="Default select example" name="CrsId">
+								<option selected>Course</option>
+								@foreach (Course c in Model?.courses)
+								{
+									<option value="@c.Id">@c.Name</option>
+								}
+							</select>
+						</div>
+					</div>
+					<div class="form-row">
+						<div class="checkbox-circle">
+							<label>
+								<input type="checkbox" checked> Nor again is there anyone who loves or pursues or desires to obtaini.
+								<span class="checkmark"></span>
+							</label>
+						</div>
+						<div>
+
+							<input type="submit" value="Add" />
+
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</section>
+
+		@*<div class="actions clearfix">
+               <ul role="menu" aria-label="Pagination">
+
+                   <li aria-hidden="false" aria-disabled="false">
+                       <a href="#next" role="menuitem">Add </a>
+                   </li>
+
+               </ul>
+            </div>*@
+
+	</form>
+</div>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script>
+	function GetCourses(){
+		var deptId = $("#DeptId").val();
+		if (!deptId || deptId === "Departement") {
+			return;
+		}
+		// $("#crsList").html("");
+		$.ajax(
+		{
+			url:"/Instructor/GetDeptCrsList?DeptId="+deptId,
+			success:function(result){
+				console.log(result); 
+
+				var select = $("select[name='CrsId']"); 
+				select.empty(); 
+				select.append('<option selected>Course</option>'); 
+
+					$.each(result, function (index, crs) {
+		select.append('<option value="' + crs.id + '">' + crs.name + '</option>');
+	});
+
+			},
+			error: function () {
+				alert("Failed to load courses.");
+			}
+
+		}
+		);
+
+	}
+
+</script>
+
+
+

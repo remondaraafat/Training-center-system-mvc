@@ -1,0 +1,158 @@
+﻿@model CourseWithLstOfDeptViewModel
+@{ 
+ 	SelectList DeptOPtions = new SelectList(Model.Departments, "Id", "Name"); 
+ } 
+<div class="wrapper">
+    <form asp-action="Add" asp-controller="Course"  method="post">
+        <!-- SECTION 1 -->
+        <h2></h2>
+        <section>
+            <div class="inner">
+                <div class="image-holder">
+                    <img src="/Images/form-wizard-1.jpg" alt="">
+                </div>
+                <div class="form-content">
+                    <div class="form-header">
+                        <h3>Add new Instructor</h3>
+                    </div>
+                    <p>Please fill with instructor details</p>
+                    <div class="form-row">
+                        <div class="form-holder">
+                            <input  placeholder="CourseName" class="form-control" asp-for="Name">
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                        <div class="form-holder">
+                            <input placeholder="Course Dgree" class="form-control" asp-for="Degree">
+                            <span asp-validation-for="Degree" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-holder">
+                            <input placeholder="Course Minimum Dgree" class="form-control" asp-for="MinDegree">
+                            <span asp-validation-for="MinDegree" class="text-danger"></span>
+                        </div>
+                        <div class="form-holder">
+                            <input placeholder="Course Hours" class="form-control" asp-for="Hours">
+                            <span asp-validation-for="Hours" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-holder">
+                            <select class="form-select" aria-label="Default select example" asp-for="DepartmentId" asp-items="DeptOPtions">
+                                <option selected value="0">Choose Departement</option>
+                            </select>
+                        </div>
+                        <div class="form-holder">
+                            
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="checkbox-circle">
+                            <label>
+                                <input type="checkbox" checked> Nor again is there anyone who loves or pursues or desires to obtaini.
+                                <span class="checkmark"></span>
+                            </label>
+                        </div>
+                        <div>
+
+                            <input type="submit" value="Add" />
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div asp-validation-summary="All" class="text-danger"></div>
+        @*<div class="actions clearfix">
+               <ul role="menu" aria-label="Pagination">
+
+                   <li aria-hidden="false" aria-disabled="false">
+                       <a href="#next" role="menuitem">Add </a>
+                   </li>
+
+               </ul>
+            </div>*@
+
+    </form>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.min.js"></script>
+
+
+
+
+
+
+@* @model CourseWithLstOfDeptViewModel *@
+@* @{ *@
+@* 	SelectList DeptOPtions = new SelectList(Model.Departments, "Id", "Name"); *@
+@* } *@
+@* <a href="/Course/Index">Back to list</a> *@
+@* <div class="wrapper"> *@
+@* 	<form action="" id="wizard" method="post"> *@
+@* 		<!-- SECTION 1 --> *@
+@* 		<h2></h2> *@
+@* 		<section> *@
+@* 			<div class="inner"> *@
+@* 				<div class="image-holder"> *@
+@* 					<img src="/Images/form-wizard-1.jpg" alt=""> *@
+@* 				</div> *@
+@* 				<div class="form-content"> *@
+@* 					<div class="form-header"> *@
+@* 						<h3>Add new Course</h3> *@
+@* 					</div> *@
+@* 					<p>Please fill with course details</p> *@
+@* 					<div class="form-row"> *@
+@* 						<div class="form-holder"> *@
+@* 							<input placeholder="Course Name" class="form-control" asp-for="Name"> *@
+@* 							<span asp-validation-for="Name" class="text-danger"></span> *@
+@* 						</div> *@
+@* 						<div class="form-holder"> *@
+@* 							<input placeholder="Course Degree" class="form-control" asp-for="Degree"> *@
+@* 							<span asp-validation-for="Degree" class="text-danger"></span> *@
+@* 						</div> *@
+@* 					</div> *@
+@* 					<div class="form-row"> *@
+@* 						<div class="form-holder"> *@
+@* 							<input placeholder="Course min degree" class="form-control" asp-for="MinDegree"> *@
+@* 							<span asp-validation-for="MinDegree" class="text-danger"></span> *@
+@* 						</div> *@
+@* 						<div class="form-holder"> *@
+@* 							<input placeholder="Course hours" class="form-control" asp-for="Hours"> *@
+@* 							<span asp-validation-for="Hours" class="text-danger"></span> *@
+@* 						</div> *@
+@* 					</div> *@
+@* 					<div class="form-row"> *@
+@* 						<div class="form-holder"> *@
+@* 							<select class="form-select" aria-label="Default select example" asp-for="DepartmentId" asp-items="DeptOPtions"> *@
+@* 								<option selected vlue="0">Select Departement</option> *@
+@* 							</select> *@
+@* 						</div> *@
+@* 					</div> *@
+@* 					<div class="form-row"> *@
+@* 						<div class="checkbox-circle"> *@
+@* 							<label> *@
+@* 								<input type="checkbox" checked> Nor again is there anyone who loves or pursues or desires to obtaini. *@
+@* 								<span class="checkmark"></span> *@
+@* 							</label> *@
+@* 						</div> *@
+@* 						<div> *@
+
+@* 							<input type="submit" value="Add" /> *@
+
+@* 						</div> *@
+@* 					</div> *@
+@* 				</div> *@
+@* 			</div> *@
+
+@* 		</section> *@
+
+@* 	</form> *@
+@* </div> *@
+
+
+
+
+
